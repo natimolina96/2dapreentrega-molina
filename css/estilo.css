@@ -1,0 +1,55 @@
+
+.logo {
+    width: 350px;
+}
+.encabezado {
+    background-color: #f9e3bb;
+}
+    
+.menuNav a:hover{
+    background-color: #897043;
+    color: white;
+
+}
+.Titulo {
+    color: #897043;
+    margin: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+ .tarjeta{
+    margin: 10px;
+    margin-left: 20px;
+ }
+
+ .descripcion {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #897043;
+    font-style: italic;
+
+ }
+.conoce{
+    background-color: #897043;
+    color: white;
+    border-radius: 30px;
+    margin-bottom: auto;
+}
+.conoce:hover{
+    background-color: #DBBA86;
+    color: white;
+}
+
+.ubicacion{
+    color: #897043;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    margin: 50px;
+}
+    .textoLago{
+        color: #5E663A;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin: 50px;
+    }
